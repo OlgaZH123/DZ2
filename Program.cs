@@ -1,4 +1,5 @@
-﻿// 1 Задача
+ДЗ
+// 1 Задача
 Console.Write("Введите число А:");
 int number1 = int.Parse(Console.ReadLine()!);
 Console.Write("Введите число B:");
